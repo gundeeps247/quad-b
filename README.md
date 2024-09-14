@@ -53,3 +53,7 @@ The application is deployed using [Vercel](https://gundeep-todo.vercel.app/)
 - Navigate through the application to add, view, and delete tasks.
 - Set priorities for tasks and check the weather conditions related to outdoor tasks.
 - Use the login/logout functionality to manage user authentication.
+
+
+## Screenshots
+![Screenshot 1](https://github.com/gundeeps247/quad-b/blob/main/screenshots/WhatsApp%20Image%202024-09-14%20at%204.02.13%20PM%20(1).jpeg)
