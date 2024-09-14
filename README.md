@@ -56,3 +56,16 @@ The application is deployed using [Vercel](https://gundeep-todo.vercel.app/)
 
 
 ## Screenshots
+![](https://github.com/user-attachments/assets/303af25d-b3d6-4a6b-be33-b33465520dea)
+
+
+![](https://github.com/user-attachments/assets/f80b0afe-ede7-4689-811f-32d742d47bd1)
+
+
+![](https://github.com/user-attachments/assets/57c8d98b-aee1-462b-acf5-bf59ac470f22)
+
+
+![](https://github.com/user-attachments/assets/55dc3d63-d1af-4a5b-85d2-d16378d16eb6)
+
+
+![](https://github.com/user-attachments/assets/0ab18bbe-fa06-46a0-acb8-f86b402d9d43)
