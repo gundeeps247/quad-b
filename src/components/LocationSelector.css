@@ -1,0 +1,24 @@
+.location-selector {
+    margin: 20px 0;
+}
+
+.location-selector input {
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.location-selector button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #007bff; /* Example button color from Figma */
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.location-selector button:hover {
+    background-color: #0056b3; /* Example hover color from Figma */
+}
